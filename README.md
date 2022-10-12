@@ -3,3 +3,4 @@ MYSQL Demo for a MYSQL Workshop i held. it is a simple login in, register system
 
 ## Content of Project
 
+There are 6 Files in the project.  
