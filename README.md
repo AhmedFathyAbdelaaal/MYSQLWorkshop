@@ -13,7 +13,8 @@ There are 6 Files in the project.
 		
 ## Starting with home.php
 
-Our home file is the page users are sent to when they are logged in successfuly.  
+Our home file is the page users are sent to when they are logged in successfuly. I used the Bootstrap to format the pages of the project.  
+Each page had a Navbar and for our home page we had a message that says "welcome 'name of user' ". 
 
 The code for it will be gives below:  
 
@@ -83,6 +84,6 @@ session_start();
 
 </body>
 </html>
-
-
 ```
+### Explaination
+
